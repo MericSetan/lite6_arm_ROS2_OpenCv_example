@@ -1,0 +1,43 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/meric/ros2_ws/install/xarm_planner/include/**",
+        "/home/meric/ros2_ws/install/xarm_gazebo/include/**",
+        "/home/meric/ros2_ws/install/xarm_controller/include/**",
+        "/home/meric/ros2_ws/install/xarm_api/include/**",
+        "/home/meric/ros2_ws/install/xarm_msgs/include/**",
+        "/home/meric/ros2_ws/install/realsense_gazebo_plugin/include/**",
+        "/home/meric/ros2_ws/install/lite6_arm_interface/include/**",
+        "/home/meric/ros2_ws/install/irobot_create_nodes/include/**",
+        "/home/meric/ros2_ws/install/irobot_create_ignition_toolbox/include/**",
+        "/home/meric/ros2_ws/install/irobot_create_gazebo_plugins/include/**",
+        "/home/meric/ros2_ws/install/irobot_create_toolbox/include/**",
+        "/home/meric/ros2_ws/install/irobot_create_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/meric/ros2_ws/src/create3_sim-humble/irobot_create_common/irobot_create_nodes/include/**",
+        "/home/meric/ros2_ws/src/create3_sim-humble/irobot_create_common/irobot_create_toolbox/include/**",
+        "/home/meric/ros2_ws/src/create3_sim-humble/irobot_create_gazebo/irobot_create_gazebo_plugins/include/**",
+        "/home/meric/ros2_ws/src/create3_sim-humble/irobot_create_ignition/irobot_create_ignition_toolbox/include/**",
+        "/home/meric/ros2_ws/src/lite6_arm_interface/include/**",
+        "/home/meric/ros2_ws/src/xarm_ros2/thirdparty/realsense_gazebo_plugin/include/**",
+        "/home/meric/ros2_ws/src/xarm_ros2/xarm_api/include/**",
+        "/home/meric/ros2_ws/src/xarm_ros2/xarm_controller/include/**",
+        "/home/meric/ros2_ws/src/xarm_ros2/xarm_gazebo/include/**",
+        "/home/meric/ros2_ws/src/xarm_ros2/xarm_moveit_servo/include/**",
+        "/home/meric/ros2_ws/src/xarm_ros2/xarm_planner/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
